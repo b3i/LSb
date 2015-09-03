@@ -1,0 +1,13 @@
+{
+  "title": "LSb - Locators Sidebar",
+  "name": "LSb",
+  "version": "0.2.4",
+  "description": "finds and marks locators on a webpage based on css/xpath selectors",
+  "main": "index.js",
+  "author": "Alberto Nicoli",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT"
+}

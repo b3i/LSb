@@ -1,0 +1,38 @@
+*{
+	font-size:0.95em;
+	margin:2px;
+}
+h1{
+	font-size:1.2em;
+	margin-top:10px;
+}
+table{
+	border: 1px solid black;
+	text-align: center;
+	margin-top: 5px;
+	-webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+table tr{
+	cursor: pointer;
+
+}
+td{
+	border: 1px solid #cccccc;
+	min-width: 10px;
+	min-height: 10px;	
+}
+.colorbox{
+	width:10px;
+	height:10px;
+	background-color:#f3f3f3;
+}
+
+body>div{
+	clear:left;
+	margin-top:5px;
+}
